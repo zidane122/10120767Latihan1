@@ -4,6 +4,13 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+
+/**
+ * Nama : Zidane Maulana
+ * NIM  : 1020767
+ * Kelas : IF-9
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

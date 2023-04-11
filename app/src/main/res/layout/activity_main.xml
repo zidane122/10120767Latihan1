@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Nama    : Zidane Maulana
+NIM     : 10120767
+Kelas   :IF-9
+-->
 <androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -65,7 +71,8 @@
                                 android:layout_height="wrap_content"
                                 android:text="Digital Together Everyone Achieve More Jabar Digital Service"
                                 android:textColor="@color/natural"
-                                android:textSize="@dimen/_11sdp" />
+                                android:textSize="@dimen/_11sdp"
+                                tools:ignore="TextSizeCheck,TextSizeCheck" />
                         </LinearLayout>
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
@@ -108,7 +115,8 @@
                             android:layout_height="wrap_content"
                             android:text="UI Designer"
                             android:textColor="@color/natural"
-                            android:textSize="@dimen/_11sdp" />
+                            android:textSize="@dimen/_11sdp"
+                            tools:ignore="TextSizeCheck" />
                     </LinearLayout>
                 </LinearLayout>
 
@@ -139,7 +147,8 @@
                             android:paddingTop="@dimen/_6sdp"
                             android:text="Jam kerja kamu bulan ini: 130.53 jam"
                             android:textColor="#0D47A1"
-                            android:textSize="@dimen/_11sdp" />
+                            android:textSize="@dimen/_11sdp"
+                            tools:ignore="TextSizeCheck" />
 
                         <androidx.cardview.widget.CardView
                             android:layout_width="match_parent"
@@ -198,7 +207,8 @@
                             android:paddingTop="@dimen/_6sdp"
                             android:text="Batas Minimum Jam Kerja 170 jam/bulan"
                             android:textColor="@color/natural"
-                            android:textSize="@dimen/_11sdp" />
+                            android:textSize="@dimen/_11sdp"
+                            tools:ignore="TextSizeCheck,TextSizeCheck" />
 
                         <androidx.cardview.widget.CardView
                             android:layout_width="match_parent"
